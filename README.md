@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jinyu Chen
 
-<!--
-**ChenJinyu371/ChenJinyu371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student.
 
-Here are some ideas to get you started:
+## About Me
+- I am currently taking the Software Maintenance and Evolution course.
+- I am interested in software development, web technologies, and learning new frameworks.
+- I hope to understand how to maintain and improve software systems effectively.
+- Fun fact: I enjoy exploring useful digital tools and learning new tech skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Course Expectations
+I expect to gain hands-on knowledge about software maintenance practices, teamwork, and how legacy systems can be improved over time.
+
+## A Representation of Me
+![My Image](myphoto.jpg)
